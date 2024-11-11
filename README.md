@@ -1,5 +1,5 @@
 # WOLNearby
-Program that starts every device supports WOL (Wake on LAN) connected to your internet. GUI - No GUI [🥵TERMUX SUPPORTED🥵]
+Program that starts every device supports WOL (Wake on LAN) connected to your internet. GUI - No GUI 
 
 # Windows Installation
 ```
@@ -21,3 +21,5 @@ cd WOLNearby
 
 python wol_spammer_no_gui.py
 ```
+
+# TERMUX SUPPORTED (ROOT REQUIRED)
